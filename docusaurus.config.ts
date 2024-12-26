@@ -16,7 +16,6 @@ const config: Config = {
   organizationName: "PalisadoesFoundation", // GitHub org
   projectName: "pattoo-docs", // repo name
 
-  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
