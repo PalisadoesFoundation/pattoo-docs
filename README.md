@@ -1,2 +1,0 @@
-# pattoo-docs
-Pattoo Documentation
