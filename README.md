@@ -1,4 +1,4 @@
-# Palisadoes Developer Documentation
+# Pattoo Documentation
 
 💬 Join the community on Slack from our [Palisadoes Foundation GitHub Home Page](https://github.com/PalisadoesFoundation)
 
